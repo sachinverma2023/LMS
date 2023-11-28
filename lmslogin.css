@@ -1,0 +1,55 @@
+body{
+  background-color: #344a72;
+  font-family: "Roboto",sans-serif;
+  display: flex;
+  padding-top: 3%;
+  padding-left: 15%;
+}
+.signup-box{
+   width: 460px; 
+   height: 620px;
+   background-color: white;
+   border-radius: 3px;
+
+}
+.sign{
+    text-align: center;
+   
+}
+h1{
+  font-size: 60px;
+}
+h4{
+  font-size: 30px;
+}
+.container{
+    margin-left: 23%;
+    margin-bottom: 4%;
+}
+.submit{
+  width: 170px;
+  height: 25px;
+  background-color: rgb(0, 85, 255);
+  border-radius: 6px;
+} 
+/* loginbox */
+.login-box{
+  width: 360px;
+  height: 320px;
+  margin: auto;
+  background-color: white;
+  border-radius: 3px;
+}
+.submit1{
+  width: 170px;
+  height: 25px;
+  background-color:rgb(0, 85, 255);
+  border-radius: 6px;
+}
+.login{
+  text-align: center;
+}
+/* .container1{
+  margin-bottom: 2%;
+  padding-bottom: 2%;
+} */

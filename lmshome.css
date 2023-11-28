@@ -1,0 +1,35 @@
+body{
+    background-image: url(images.jpeg);
+    background-repeat: no-repeat;
+    background-position: 85%;
+    background-size: 500px 400px;
+}
+/* img{
+    display: flex;
+    width: 100%;
+} */
+.a{
+    padding-top: 4%;
+    padding-left: 2%;
+    
+}
+.b{
+    padding-top: 70px;
+    padding-left: 2%;
+    font-size: 30px;
+   color: red;
+}
+.c{
+    padding-top: 0%;
+    padding-left: 2%;
+    font-size: 20px;
+    color: green;
+    /* border: 2px solid red;  */
+    margin-top: 70px;
+    width: 50%
+    
+}
+.d{
+    line-height: 10%;
+    width: 10%;
+}
