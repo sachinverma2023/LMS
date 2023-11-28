@@ -56,13 +56,13 @@ ul{
   height: 350px;
   padding-top: 20px;
 }
-#BCA img{
+/* #BCA img{
   border: 2px solid black;
   margin-top: 30px;
   margin-left: 40px;
   width: 200px;
   height: 250px;
-}
+} */
 .bcaa{
   font-size: 26px;
   font-weight: bold;
@@ -79,13 +79,13 @@ ul{
   font-weight: bold;
   margin-left: 10px;
 }
-#MCA img{
+/* #MCA img{
   border: 2px solid black;
   margin-top: 30px;
   margin-left: 40px;
   width: 200px;
   height: 250px;
-}
+} */
 #BBA{
   background-color: rgb(241, 245, 179);
   width: 100%;
@@ -97,13 +97,13 @@ ul{
   font-weight: bold;
   margin-left: 10px;
 }
-#BBA img{
+/* #BBA img{
   border: 2px solid black;
   margin-top: 30px;
   margin-left: 40px;
   width: 200px;
   height: 250px;
-}
+} */
 #MBA{
   background-color: rgb(246, 205, 245);
   width: 100%;
@@ -115,7 +115,16 @@ ul{
   font-weight: bold;
   margin-left: 10px;
 }
-#MBA img{
+/* #MBA img{
+  border: 2px solid black;
+  margin-top: 30px;
+  margin-left: 40px;
+  width: 200px;
+  height: 250px;
+} */
+
+
+img{
   border: 2px solid black;
   margin-top: 30px;
   margin-left: 40px;
@@ -125,7 +134,7 @@ ul{
 img:hover{
   transform: scale(1.1);
   border-radius: 10px;
-  border: 10px dotted black;
+  border: 2px dotted black;
 }
 
 
